@@ -82,10 +82,10 @@ This project is submitted as part of the Atlan Frontend Internship Task 2025. Be
 
 - **GitHub Repository**: [https://github.com/Sonalkri2004/atlan-sql-runner](https://github.com/Sonalkri2004/atlan-sql-runner) 
 - **Deployed App**: [https://atlan-sql-runner.vercel.app/](https://atlan-sql-runner-2025.vercel.app/) 
-- **Video Walkthrough**: [Link to your video] *(Add after recording)*
+- **Video Walkthrough**: [[video Link](https://drive.google.com/file/d/1mNoW-W78SO2UmQ-CVHbifjcYbR0Sk3b6/view?usp=sharing)] 
 - **Explanation Document (PDF)**: [[Documentation Link](https://drive.google.com/file/d/17ieQbR7tVhzvW6Uxtqcb_xMwnG0xGKcE/view?usp=sharing)] 
-- **Architecture Diagram**: ![alt text](architecture_diagram.png) *
-- **ER Diagram**: Not applicable (no backend or database, as per task requirements).
+- **Architecture Diagram**: ![alt text](architecture_diagram.png) 
+
 
 ## Development Process
 
