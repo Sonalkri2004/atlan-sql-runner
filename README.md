@@ -81,7 +81,7 @@ The application is deployed on Vercel for easy access. You can try it here:
 This project is submitted as part of the Atlan Frontend Internship Task 2025. Below are the required submission details:
 
 - **GitHub Repository**: [https://github.com/Sonalkri2004/atlan-sql-runner](https://github.com/Sonalkri2004/atlan-sql-runner) 
-- **Deployed App**: [https://atlan-sql-runner.vercel.app/](https://atlan-sql-runner-2025.vercel.app/) 
+- **Deployed App**: [https://atlan-sql-runner.vercel.app/](https://atlan-sql-runner.vercel.app/)
 - **Video Walkthrough**: [[video Link](https://drive.google.com/file/d/1mNoW-W78SO2UmQ-CVHbifjcYbR0Sk3b6/view?usp=sharing)] 
 - **Explanation Document (PDF)**: [[Documentation Link](https://drive.google.com/file/d/17ieQbR7tVhzvW6Uxtqcb_xMwnG0xGKcE/view?usp=sharing)] 
 - **Architecture Diagram**: ![alt text](architecture_diagram.png) 
